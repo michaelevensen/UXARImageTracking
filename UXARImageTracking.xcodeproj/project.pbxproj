@@ -12,7 +12,6 @@
 		9E66F54121173070001091E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E66F53F21173070001091E5 /* Main.storyboard */; };
 		9E66F54321173072001091E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E66F54221173072001091E5 /* Assets.xcassets */; };
 		9E66F54621173072001091E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E66F54421173072001091E5 /* LaunchScreen.storyboard */; };
-		9E7C0E292118BF470055E91E /* AudioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7C0E282118BF470055E91E /* AudioController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		9E66F54221173072001091E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E66F54521173072001091E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E66F54721173072001091E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9E7C0E282118BF470055E91E /* AudioController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +68,6 @@
 			children = (
 				9E66F53B21173070001091E5 /* AppDelegate.swift */,
 				9E66F53D21173070001091E5 /* ViewController.swift */,
-				9E7C0E282118BF470055E91E /* AudioController.swift */,
 				9E66F53F21173070001091E5 /* Main.storyboard */,
 				9E66F54221173072001091E5 /* Assets.xcassets */,
 				9E66F54421173072001091E5 /* LaunchScreen.storyboard */,
@@ -152,7 +149,6 @@
 			files = (
 				9E66F53E21173070001091E5 /* ViewController.swift in Sources */,
 				9E66F53C21173070001091E5 /* AppDelegate.swift in Sources */,
-				9E7C0E292118BF470055E91E /* AudioController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
