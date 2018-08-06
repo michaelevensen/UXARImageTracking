@@ -76,11 +76,4 @@ extension ViewController: ARSCNViewDelegate {
         
         return node
     }
-    
-    // Node updating
-    func renderer(_ renderer: SCNSceneRenderer, didUpdate node: SCNNode, for anchor: ARAnchor) {
-
-        print("did update \(node)")
-        
-    }
 }
